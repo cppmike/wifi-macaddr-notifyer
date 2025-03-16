@@ -1,2 +1,2 @@
 ## wifi-macaddr-notifyer
-**wifi-macaddr-notifyer** sends a notification to telegram when the device connects to your wifi network
+**wifi-macaddr-notifyer** sends a notification to Telegram when a device with a specified MAC address connects to your WiFi network
