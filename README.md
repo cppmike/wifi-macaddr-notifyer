@@ -1,2 +1,2 @@
 ## wifi-macaddr-notifyer
-The script sends a notification to telegram when the device connects to your wifi network
+**wifi-macaddr-notifyer** sends a notification to telegram when the device connects to your wifi network
