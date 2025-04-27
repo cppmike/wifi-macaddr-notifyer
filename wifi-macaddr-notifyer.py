@@ -59,7 +59,7 @@ async def main():
         # Checking which devices have been disconnected
         for mac in connected_devices.copy():
             if mac not in current_connected_devices:
-                print(f"Устройство отключилось: {mac}")
+                print(f"Device disconnected: {mac}")
                 connected_devices.discard(mac) 
 
         time.sleep(10)  # Pause between scans
